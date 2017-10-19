@@ -11,3 +11,11 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+
+library(tidyverse)
+
+
+text for testing
+
+data <- read.csv(data\)
